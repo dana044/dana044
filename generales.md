@@ -2,7 +2,7 @@
 
 ## Dana Carmona Santamaria
 
-Hola, yo soy Dana, tengo 20 años
+Hola, yo soy Dana, tengo 20 años. Soy estudiante de Ingenieria en sistemas y tecnologias de la información
 
 ### Datos de contacto
 Teléfono: 2281832411
@@ -19,7 +19,11 @@ Sitio Web: https://dsiapes.uv.mx/MiUVestudiantes/escritorio/smutiles.aspx
 * Certificado en inglés TOEFL IBT
 
 ### Proyectos
+* Pagina y base de datos de negocio de dulceria
 
 ### Idiomas
+* Español
+* Inglés
+
 
 [Volver principal](README.md)
